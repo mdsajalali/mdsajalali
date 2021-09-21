@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajal</h1>
-<h3 align="center">My name is Sajal and I'm a Web developer.</h3>
+<h3 align="center">My name is Sajal and I'm a Web Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajalali&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajalali" /> </p>
 
