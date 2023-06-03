@@ -37,7 +37,7 @@
 
 ## 🚀 **Current Github Status**:
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats/>
+[![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
 
 <br/>
 
