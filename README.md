@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahirahmad01" alt="tahirahmad01" /></a> </p> -->
 
-## 🧐 **Current Overview**:
+## 🙂 **Current Overview**:
 
 - 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
 
@@ -45,9 +45,9 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/mdsajalali3/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/mdsajalali/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:mdsajalali.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href = "https://www.facebook.com/imsajall/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/mdsajalali/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:mdsajalali.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
 
