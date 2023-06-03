@@ -45,9 +45,9 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/imsajall/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/mdsajalali/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:mdsajalali.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href="https://www.facebook.com/imsajall/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href="https://www.linkedin.com/in/mdsajalali/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:mdsajalali.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
 
