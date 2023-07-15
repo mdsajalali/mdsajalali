@@ -7,7 +7,7 @@
 
 ## 🙂 **Current Overview**:
 
-- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
+- 🌱 I’m currently exploring **Next JS & JavaScript Problem Solving**
 
 <!-- - 👨‍💻 All of my projects are available at [www.abc.com](www.abc.com) -->
 
@@ -41,8 +41,7 @@
 
 [![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&
-" alt="mdsajalali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&" alt="mdsajalali" /></p>
 
 <br/>
 
