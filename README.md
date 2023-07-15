@@ -39,6 +39,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalali&layout=compact&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
 
+[![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&
+" alt="mdsajalali" /></p>
+
 <br/>
 
 ## 📱 **Reach Me**:
