@@ -37,9 +37,8 @@
 
 ## 🚀 **Current Github Status**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalali&layout=compact&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
-
-[![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mdsajalali/github-readme-stats)
+| <a href="https://github-readme-stats.vercel.app/api?username=mdsajalali&show_icons=true&include_all_commits=true&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsajalali&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Tahir Ahmad's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalali&layout=compact&theme=default&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalali&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&" alt="mdsajalali" /></p>
 
