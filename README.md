@@ -37,7 +37,7 @@
 
 ## 🚀 **Current Github Status**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsjalali&layout=compact)](https://github.com/mdsajalali/github-readme-stats)
+[![Top Langs](stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true)](https://github.com/mdsajalali/github-readme-stats)
 
 [![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true)](https://github.com/mdsjalali/github-readme-stats)
 
