@@ -41,7 +41,7 @@
 
 [![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true)](https://github.com/mdsjalali/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsjalali&" alt="mdsjalali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&" alt="mdsjalali" /></p>
 
 <br/>
 
