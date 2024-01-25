@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md. Sajal Ali</h1>
-<h3 align="center">A Fresher Front-end Web Developer</h3>
+<h3 align="center">Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajalali&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajalali" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahirahmad01" alt="tahirahmad01" /></a> </p> -->
 
-## 🙂 **Current Overview**:
+## 👨🏻‍💻 About Me:
+
+- 🙋‍♂️ All about me is at **[My CV](https://drive.google.com/file/d/1heGTbP8dvX5i0cIrvVGO14f5DJvRkGj2/view?usp=sharing)**
 
 - 🌱 I’m currently exploring **Next JS & JavaScript Problem Solving**
-
-<!-- - 👨‍💻 All of my projects are available at [www.abc.com](www.abc.com) -->
 
 - ⚡ Fun fact **I love coding and creating awesome websites**
 
