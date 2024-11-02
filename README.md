@@ -7,13 +7,13 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My CV](https://drive.google.com/file/d/1heGTbP8dvX5i0cIrvVGO14f5DJvRkGj2/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My CV](https://drive.google.com/file/d/1s8kHNrzVYDPlNmqT8euZUHDBHRAJV4ls/view?usp=sharing)**
 
-- 🌱 I’m currently exploring **Next JS & JavaScript Problem Solving**
+- 🌱 I’m currently exploring **Mern & JavaScript Problem Solving**
 
 - ⚡ Fun fact **I love coding and creating awesome websites**
 
-- 📫 How to reach me **mdsajalali.dev@gamil.com**
+- 📫 How to reach me **mdsajalali2020@gamil.com**
 
 ## :bulb: Tools And Technologies\_
 
