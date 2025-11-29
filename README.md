@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sajal Ali</h1>
-<h3 align="center">Frontend Engineer</h3>
+
+As a Frontend Engineer, I turn design concepts into fully functional websites with clean, responsive code. Whether it’s a custom build or integrating advanced features, my expertise ensures that every site is fast, visually engaging, and optimized for performance.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajalali&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajalali" /> </p>
 
@@ -40,7 +41,7 @@
 - [LeetCode](https://leetcode.com/u/mdsajalali)
 - [LinkedIn](https://www.linkedin.com/in/mdsajalali)
 - [Facebook](https://www.facebook.com/sajalali.dev)
-- [Website](https://sajalali.vercel.app)
+- [Portfolio](https://sajalali.vercel.app)
 
 ## 🚀 **Current Github Status**:
 
