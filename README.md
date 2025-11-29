@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sajal Ali</h1>
-<h3 align="center">Front-end Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajalali&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajalali" /> </p>
 
@@ -15,44 +15,34 @@
 
 - 📫 How to reach me **mdsajalali2020@gamil.com**
 
-## :bulb: Tools And Technologies\_
+## 🛠 Technologies I know
 
-<p align="center">
-<img height="150" src="images/technologies/HTML5.png"/>
-<img height="150" src="images/technologies/CSS3.png"/>
-<img height="150" src="images/technologies/BOOTSTRAP.png"/>
-<img height="150" src="images/technologies/TAILWIND.png"/>
-</p>
-<p align="center">
-<img height="150" src="images/technologies/JS.png"/>
-<img height="150" src="images/technologies/REACT.png"/>
-<img height="150" src="images/technologies/NEXTJS.png"/>
-<img height="150" src="images/technologies/FIREBASE.png"/>
-</p>
+- HTML & CSS
+- JavaScript
+- TypeScript
+- Angular Js
+- RxJs
+- NgRx
+- Angular Material
+- PrimeNG
+- React Js
+- Next Js
+- SASS
+- Bootstrap
+- Tailwind CSS
+- Web Animation
+- Frontend Architecture
+- API integration: REST
+- Node Js
+- Express Js
+- Mongo DB
 
-</p>
+## Social Accounts
 
-<br/>
-<br/>
+- [LinkedIn](https://www.linkedin.com/in/mdsajalali)
+- [Facebook](https://www.facebook.com/sajalali.dev)
+- [Website](https://sajalali.vercel.app)
 
 ## 🚀 **Current Github Status**:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajalali&layout=compact)](https://github.com/mdsajalali/github-readme-stats)
-
-[![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsajalali&count_private=true&show_icons=true)](https://github.com/mdsajalali/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsajalali&" alt="mdsjalali" /></p>
-
-<br/>
-
-## 📱 **Reach Me**:
-
-<p align="left">
-
-<a href="https://www.facebook.com/imsajall/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href="https://www.linkedin.com/in/mdsajalali/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:mdsajalali.dev@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-
-</p>
-
-Just visit <https://sajalali.netlify.app/> for anything else.
