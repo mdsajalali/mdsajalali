@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajalali&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajalali" /> </p>
 
-
 ## 👨🏻‍💻 About Me:
 
 - 🙋‍♂️ Learn more about me in my **[My CV](https://drive.google.com/file/d/1s8kHNrzVYDPlNmqT8euZUHDBHRAJV4ls/view?usp=sharing)**
 
-- 🌱 Currently exploring **Angular.js** and improving my **JavaScript problem-solving** skills
+- 🌱 Currently exploring **Angular** and improving my **JavaScript problem-solving** skills
 
-- ⚡ Fun fact - I’m passionate about coding and building awesome web experiences. I love exploring **new technologies** and I enjoy watching anime in my free time
+- ⚡ Fun fact: I’m passionate about coding and building awesome web experiences. I love exploring **new technologies** and I enjoy watching anime in my free time
 
-- 📫 Reach me at - **mdsajalali2020@gamil.com**
+- 📫 Reach me at: **mdsajalali2020@gmail.com**
+
 
 ## 🛠 Technologies I know
 
@@ -24,6 +24,7 @@
 - Angular Material, PrimeNG
 - React.js, Next.js
 - Bootstrap, Tailwind CSS
+- Responsive Design
 - Frontend Architecture
 - Web Animations
 
